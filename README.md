@@ -1,2 +1,2 @@
 # TeachingMaterials
-An orderly collection of materials developed by me
+Filled collection of materials developed by me
